@@ -22,6 +22,4 @@ SELECT * FROM film WHERE rental_rate IN (0.99, 2.99, 4.99) AND replacement_cost 
 ```
 
 ## Note
-
-- Note
   These queries are based on the DVD Rental database. You can download the database from [here](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).

@@ -29,6 +29,4 @@ SELECT * FROM film WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 ```
 
 ## Note
-
-- Note
   These queries are based on the DVD Rental database. You can download the database from [here](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).

@@ -34,6 +34,4 @@ SELECT last_name FROM customer WHERE first_name = 'Mary';
 SELECT * FROM film WHERE length <= 50 AND rental_rate != 2.99 AND rental_rate != 4.99;
 ```
 ## Note
-
-- Note
   These queries are based on the DVD Rental database. You can download the database from [here](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
