@@ -1,5 +1,5 @@
 
-# DVD Rental Database Queries
+# Employee Table Queries
 
 ## Request 1
 - Let's create a table named 'employee' in your test database with the column information id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100).
