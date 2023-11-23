@@ -49,6 +49,3 @@ DELETE FROM employee WHERE email = 'ltunnadinea@macromedia.com';
 DELETE FROM employee WHERE first_name = 'Mozelle' AND birth_date = '1908-07-06';
 ```
 
-## Note
-These queries are based on the DVD Rental database. You can download the database from [here](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
-
